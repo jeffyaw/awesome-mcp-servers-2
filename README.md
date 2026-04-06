@@ -535,6 +535,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Svelte Documentation](https://github.com/khromov/llmctx)** - Remote server (SSE/Streamable) for the latest Svelte and SvelteKit documentation
 - **[Task Orchestrator](https://github.com/EchoingVesper/mcp-task-orchestrator)** - AI-powered task orchestration and workflow automation with specialized agent roles, intelligent task decomposition, and seamless integration across Claude Desktop, Cursor IDE, Windsurf, and VS Code.
 - **[Tasks](https://github.com/flesler/mcp-tasks)** - An efficient task manager. Designed to minimize tool confusion and maximize LLM budget efficiency while providing powerful search, filtering, and organization capabilities across multiple file formats (Markdown, JSON, YAML)
+- **[tailscale-mcp](https://github.com/YawLabs/tailscale-mcp)** - Manage Tailscale tailnets from AI assistants. 52 tools for devices, ACLs, DNS, auth keys, users, webhooks, and audit logs.
 - **[Text-To-GraphQL](https://github.com/Arize-ai/text-to-graphql-mcp)** - MCP server for text-to-graphql, integrates with Claude Desktop and Cursor.
 - **[TeamCity](https://github.com/itcaat/teamcity-mcp)** - MCP server for TeamCity, integrates with Claude Desktop and Cursor.
 - **[TikTok](https://github.com/Seym0n/tiktok-mcp)** - TikTok integration for getting post details and video subtitles
